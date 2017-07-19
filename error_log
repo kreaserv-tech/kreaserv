@@ -1,0 +1,57 @@
+[14-Jun-2017 19:39:35 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[14-Jun-2017 19:39:35 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[14-Jun-2017 19:39:35 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[15-Jun-2017 03:56:22 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 03:56:23 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 03:56:23 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[15-Jun-2017 05:25:09 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 05:25:09 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 05:25:09 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[15-Jun-2017 05:57:43 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 05:57:43 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 05:57:43 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[15-Jun-2017 06:00:18 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 06:00:18 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 06:00:18 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[15-Jun-2017 11:54:40 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 11:54:40 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[15-Jun-2017 11:54:40 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[20-Jun-2017 01:51:27 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 01:51:27 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 01:51:27 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[20-Jun-2017 09:23:36 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 09:23:36 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 09:23:36 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[20-Jun-2017 10:16:22 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:22 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:22 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[20-Jun-2017 10:16:28 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:28 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:28 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[20-Jun-2017 10:16:34 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:34 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:34 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[20-Jun-2017 10:16:47 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:47 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:47 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[20-Jun-2017 10:16:50 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:50 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[20-Jun-2017 10:16:50 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[21-Jun-2017 09:13:35 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[21-Jun-2017 09:13:35 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[21-Jun-2017 09:13:35 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[23-Jun-2017 13:00:41 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[23-Jun-2017 13:00:41 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[23-Jun-2017 13:00:41 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[10-Jul-2017 09:30:18 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[10-Jul-2017 09:30:18 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[10-Jul-2017 09:30:18 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[13-Jul-2017 16:00:14 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[13-Jul-2017 16:00:14 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[13-Jul-2017 16:00:14 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[14-Jul-2017 00:37:22 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[14-Jul-2017 00:37:22 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[14-Jul-2017 00:37:22 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
+[14-Jul-2017 07:24:30 Etc/GMT] PHP Warning:  include_once(includes/head.php): failed to open stream: No such file or directory in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[14-Jul-2017 07:24:30 Etc/GMT] PHP Warning:  include_once(): Failed opening 'includes/head.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/leadfxx1/public_html/kreaserv.com/work.php on line 6
+[14-Jul-2017 07:24:30 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/leadfxx1/public_html/kreaserv.com/work.php on line 11
